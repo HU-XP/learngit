@@ -1,8 +1,9 @@
 Remember never say never.
-Spongbob Squarepants!
+SpongeBob SquarePants!
 Are you ready kids?
 Aye,aye,caption!
 I can't hear you!
 Aye,aye caption!
 Ooh~
 Who lives in a pineapple under the sea?
+SpongeBob SquarePants!
