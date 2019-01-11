@@ -7,4 +7,8 @@ Aye,aye caption!
 Ooh~
 Who lives in a pineapple under the sea?
 SpongeBob SquarePants!
-SpongeBob SquarePants!
+<<<<<<< HEAD
+SpongeBob SquarePants!!
+=======
+Absorbent and yellow and porous is he!
+>>>>>>> feature
